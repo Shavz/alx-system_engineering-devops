@@ -3,5 +3,4 @@ file -C -m school.mgc *
 0 string SCHOOL School data
 !:mime School
 file -m school.mgc * 
-school.mgc: data
-ls:data
+ls -la
